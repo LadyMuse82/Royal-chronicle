@@ -1,0 +1,20 @@
+[
+  {
+    "id": "artifact_domesday",
+    "title": "Domesday Leaf",
+    "summary": "A survey fragment that whispers of taxes and tenures.",
+    "set": "Conquest"
+  },
+  {
+    "id": "artifact_auld_alliance",
+    "title": "Auld Alliance Seal",
+    "summary": "Wax seal symbolizing Franco-Scottish diplomacy.",
+    "set": "Bruce"
+  },
+  {
+    "id": "artifact_six_articles",
+    "title": "Six Articles Pamphlet",
+    "summary": "A fiery tract from Henry VIII's England.",
+    "set": "Tudor"
+  }
+]

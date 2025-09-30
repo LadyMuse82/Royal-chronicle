@@ -1,0 +1,58 @@
+[
+  {
+    "id": "m_william1",
+    "name": "William I (the Conqueror)",
+    "house": "Normandy",
+    "era": "Norman Conquest",
+    "reign": "1066\u20131087",
+    "claim": "Conquest",
+    "events": [
+      "Hastings 1066",
+      "Domesday Book 1086"
+    ]
+  },
+  {
+    "id": "m_harold2",
+    "name": "Harold II",
+    "house": "Wessex",
+    "era": "Norman Conquest",
+    "reign": "1066",
+    "claim": "Election",
+    "events": [
+      "Battle of Hastings 1066"
+    ]
+  },
+  {
+    "id": "m_robert_bruce",
+    "name": "Robert I (the Bruce)",
+    "house": "Bruce",
+    "era": "Wars of Independence",
+    "reign": "1306\u20131329",
+    "claim": "Election",
+    "events": [
+      "Bannockburn 1314"
+    ]
+  },
+  {
+    "id": "m_mary_qos",
+    "name": "Mary, Queen of Scots",
+    "house": "Stuart",
+    "era": "Tudor",
+    "reign": "1542\u20131567 (Scotland)",
+    "claim": "Birth",
+    "events": [
+      "Forced abdication 1567"
+    ]
+  },
+  {
+    "id": "m_elizabeth1",
+    "name": "Elizabeth I",
+    "house": "Tudor",
+    "era": "Tudor",
+    "reign": "1558\u20131603",
+    "claim": "Birth",
+    "events": [
+      "Armada 1588"
+    ]
+  }
+]
